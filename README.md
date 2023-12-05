@@ -10,7 +10,7 @@
 
 ## 멤버
 
-[최혁](https://github.com/Youkamii)  []()  []()  []()  []()
+[최혁](https://github.com/Youkamii)  [안태인](https://github.com/TAENNOS)  [고광주](https://github.com/KoKwangJu)  [이예진](https://github.com/dlwls423)  [임지훈](https://github.com/vanillacake369)
 
 ## 진행 회차
 
