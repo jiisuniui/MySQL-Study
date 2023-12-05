@@ -1,7 +1,7 @@
 # ⏰ 21시 캠프 입구 집합! ⏰
 
 # MySQL_Study 
-프로그래머스의 MySQL 문제 푸는 스터디 입니다.
+프로그래머스의 MySQL 문제 푸는 스터디 입니다.<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
