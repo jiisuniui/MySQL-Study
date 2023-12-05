@@ -8,6 +8,8 @@
 １. 자기 이름으로 된 레포지토리에 날짜별로 저장하기 </br>
 １. 중도 포기 시, **슬랙에 이름 박제** </br>
 
+굳이 브런치 안하고, 자기 이름 디렉토리에 저장
+
 ## 멤버
 
 [최혁](https://github.com/Youkamii)  [안태인](https://github.com/TAENNOS)  [고광주](https://github.com/KoKwangJu)  [이예진](https://github.com/dlwls423)  [임지훈](https://github.com/vanillacake369) [정성호](https://github.com/jshstar) [진유록](https://github.com/jinyr1128) []()
