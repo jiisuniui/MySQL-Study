@@ -16,6 +16,12 @@
 
 [최혁](https://github.com/Youkamii)  [안태인](https://github.com/TAENNOS)  [고광주](https://github.com/KoKwangJu)  [이예진](https://github.com/dlwls423)  [임지훈](https://github.com/vanillacake369) [정성호](https://github.com/jshstar) [진유록](https://github.com/jinyr1128) [김영규](https://github.com/hana2set) [김종규](https://github.com/Kim-Jong-Gyu) [조원호](https://github.com/wonowonow) [문정현](https://github.com/JungHyunMoon) [창다은](https://github.com/de123456sdf)
 
+<div align = "center">
+  
+![납치된거야](https://github.com/Youkamii/MySQL/assets/87900502/a2decd9e-9dde-42fd-802e-3378f04f94a3)
+
+</div>
+
 ## 진행 회차
 
 | 회차               | 문제                                                                                                                                                                                                                                  |   |
