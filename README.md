@@ -20,7 +20,7 @@
   
 ![납치된거야](https://github.com/Youkamii/MySQL/assets/87900502/a2decd9e-9dde-42fd-802e-3378f04f94a3)
 
-> 너 납치된거야
+ **❝ 너 납치된거야  ❞**
 
 </div>
 
