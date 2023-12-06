@@ -28,8 +28,8 @@
 
 | 회차               | 문제                                                                                                                                                                                                                                  |   |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 1회차(2023.12.06)  | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036), [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)            |  👈 |
-| 2회차(2023.12.07)  | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037), [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)            |   |
+| 1회차(2023.12.06)  | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036), [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)            |   |
+| 2회차(2023.12.07)  | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037), [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)            |  👈 |
 | 3회차(2023.12.08)  | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404), [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)            |   |
 | 4회차(2023.12.11)  | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038), [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)            |   |
 | 5회차(2023.12.12)  | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035), [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)            |   |
