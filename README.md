@@ -100,10 +100,24 @@
 | 회차               | 문제                                                                                                                                                                                                                                  |   |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | 1회차(2023.12.06)  | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036), [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)            |   |
+
 | 2회차(2023.12.07)  | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037), [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)            |   |
+
 | 3회차(2023.12.08)  | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404), [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406), [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038), [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)            |   |
+
 | 4회차(2023.12.11)  |  [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035), [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405), [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041), [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)          |   |
+
 | 5회차(2023.12.12)  |  [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047), [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697), [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410), [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)          | 👈  |
+
+| 6회차(2023.12.13)  |  [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114), [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414), [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/59414), [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)          |   |
+
+| 7회차(2023.12.14)  |  [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039), [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535), [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529), [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409)          |   |
+
+| 8회차(2023.12.15)  |  [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040), [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202), [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412), [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)          |   |
+
+| 9회차(2023.12.18)  |  [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024), [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137), [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855), [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)          |   |
+
+| 10회차(2023.12.19)  |  [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533), [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043), [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411), [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)          |   |
 
 
 </div>
