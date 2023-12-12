@@ -116,6 +116,8 @@
 </details>
 
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59408" style="color: red;">중복 제거하기</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036" style="text-decoration: none; color: blue;">아픈 동물 찾기</a>
+
 
 
 
