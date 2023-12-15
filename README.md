@@ -21,7 +21,7 @@
 ## 멤버
 
 [최혁](https://github.com/Youkamii)  [안태인](https://github.com/TAENNOS)  [고광주](https://github.com/KoKwangJu)  [이예진](https://github.com/dlwls423)  [임지훈](https://github.com/vanillacake369) [정성호](https://github.com/jshstar) [진유록](https://github.com/jinyr1128) [김영규](https://github.com/hana2set) [김종규](https://github.com/Kim-Jong-Gyu) [조원호](https://github.com/wonowonow)</br>[문정현](https://github.com/JungHyunMoon) [창다은](https://github.com/de123456sdf) [이지선](https://github.com/jiisuniui)
-[최준영](https://github.com/junxtar) [김지현](https://github.com/zomeong) [김진훈](https://github.com/ouohoon) [장동하](https://github.com/wkdehdgk159) [김재윤](https://github.com/lycoris62)
+[최준영](https://github.com/junxtar) [김지현](https://github.com/zomeong) [김진훈](https://github.com/ouohoon) [장동하](https://github.com/wkdehdgk159) [김재윤](https://github.com/lycoris62) [문형원](https://github.com/hyeon9won)
 
 <div align = "center">
   
